@@ -1,4 +1,4 @@
-// Phase of moon
+// Phase of moon using OpenGL
 
 #include<stdlib.h>
 #include<GL\glut.h>
